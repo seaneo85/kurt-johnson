@@ -1,0 +1,2201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Automotive\n"
+"POT-Creation-Date: 2014-12-02 11:13-0500\n"
+"PO-Revision-Date: 2014-12-02 11:13-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "File not found"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:530
+#: ReduxFramework/ReduxCore/framework.php:1950
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:531
+#: ReduxFramework/ReduxCore/framework.php:1958
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:532
+#: ReduxFramework/ReduxCore/framework.php:1974
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:565
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:566
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:567
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:213
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:213
+msgid "Redux Framework"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:217
+#: ReduxFramework/ReduxCore/framework.php:221
+msgid "Options"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:1369
+#: ReduxFramework/ReduxCore/framework.php:1370
+#: ReduxFramework/ReduxCore/framework.php:3604
+#: ReduxFramework/ReduxCore/framework.php:3683
+msgid "System Info"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:1966
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:1981
+msgid "Please Wait"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:2106
+msgid "Enable"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:2111
+msgid "Disable"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:2117
+msgid "moving the mouse over"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:2119
+msgid "clicking"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:2123
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:2128
+msgid "Hints"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:2253
+msgid "Default"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:3349
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:3400
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:3428
+msgid "Expand"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:3430
+#: ReduxFramework/ReduxCore/framework.php:3740
+msgid "Save Changes"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:3434
+#: ReduxFramework/ReduxCore/framework.php:3744
+msgid "Reset Section"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:3436
+#: ReduxFramework/ReduxCore/framework.php:3746
+msgid "Reset All"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:3441
+#: ReduxFramework/ReduxCore/framework.php:3751
+msgid "Working..."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:3461
+msgid "Settings Imported!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:3476
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:3490
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:3504
+msgid "Settings Saved!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:3524
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:3532
+msgid "error(s) were found!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/framework.php:3540
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/class.redux_filesystem.php:22
+msgid "Unable to create a required directory. Please ensure that"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/class.redux_filesystem.php:24
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/class.redux_functions.php:253
+msgid "Dismiss"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/class.redux_themecheck.php:61
+#, php-format
+msgid ""
+"The theme you are testing has %s embedded. We invite you to read the %sTheme-"
+"Check Documentation%s to understand some warnings you will see because of "
+"Redux."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/class.redux_themecheck.php:109
+msgid ""
+"The following directories & files are still located in your <strong>Redux</"
+"strong>  directory. They may cause errors in Theme-Check."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/debug.php:41
+#: ReduxFramework/ReduxCore/inc/debug.php:69
+#: ReduxFramework/ReduxCore/inc/debug.php:76
+#: ReduxFramework/ReduxCore/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:124
+#: ReduxFramework/ReduxCore/inc/fields/color/field_color.php:72
+#: ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: ReduxFramework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:77
+msgid "Transparent"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:277
+#: ReduxFramework/ReduxCore/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:314
+#: ReduxFramework/ReduxCore/inc/fields/media/field_media.php:193
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:126
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:321
+#: ReduxFramework/ReduxCore/inc/fields/media/field_media.php:200
+#: ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:69
+#: ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:73
+#: ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:133
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:114
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:127
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:134
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:141
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:148
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:177
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:436
+msgid "Height"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:188
+#: ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/password/field_password.php:62
+#: footer.php:15
+msgid "Password"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/password/field_password.php:63
+#: footer.php:14
+msgid "Username"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/select/field_select.php:83
+#: ReduxFramework/ReduxCore/inc/fields/select_image/field_select_image.php:62
+msgid "Select an item"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/select/field_select.php:134
+#: ReduxFramework/ReduxCore/inc/fields/select_image/field_select_image.php:143
+msgid "No items of this type were found."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:73
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:145
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:149
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:153
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:167
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:227
+msgid "Font Family"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:228
+msgid "Font family"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:254
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:255
+msgid "Backup Font Family"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:269
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:276
+msgid "Font style"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:270
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:276
+msgid "Style"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:316
+msgid "Font subsets"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:318
+msgid "Font Subsets"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:319
+msgid "Subsets"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:319
+msgid "Font script"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:336
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:337
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:338
+msgid "Text Align"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:359
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:360
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:361
+msgid "Text Transform"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:382
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:383
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:384
+msgid "Font Variant"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:402
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:403
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:404
+msgid "Text Decoration"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:426
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:427
+msgid "Font Size"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:427
+msgid "Size"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:435
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:436
+msgid "Line Height"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:444
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:445
+msgid "Word Spacing"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:453
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:454
+msgid "Letter Spacing"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:472
+msgid "Font Color"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:474
+msgid "Font color"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:864
+msgid "Standard Fonts"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:965
+msgid "Google Webfonts"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:81
+msgid "Import Options"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:82
+msgid "Import from file"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:82
+msgid "Import from URL"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:94
+msgid "Import"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:97
+msgid "Export Options"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:104
+msgid "Copy"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:104
+msgid "Download"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:104
+msgid "Copy Link"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/import_export.php:140
+#: ReduxFramework/ReduxCore/inc/import_export.php:149
+#: ReduxFramework/ReduxCore/inc/import_export.php:150
+#: ReduxFramework/options/options.php:659
+msgid "Import / Export"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:152
+#: ReduxFramework/ReduxCore/inc/welcome.php:139
+msgid "Getting Started"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:154
+msgid "Redux Extensions"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/tracking.php:166 footer.php:10
+msgid "Close"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/color/validation_color.php:15
+#: ReduxFramework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: ReduxFramework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/email/validation_email.php:16
+#: ReduxFramework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: ReduxFramework/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:40
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:48
+#: ReduxFramework/ReduxCore/inc/welcome.php:295
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:56
+msgid "Getting started with Redux Framework"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:64
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:135
+msgid "What's New"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:143
+msgid "Changelog"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:147
+msgid "Credits"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:164
+#: ReduxFramework/ReduxCore/inc/welcome.php:333
+#: ReduxFramework/ReduxCore/inc/welcome.php:471
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:167
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"<add description>"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:169
+#: ReduxFramework/ReduxCore/inc/welcome.php:300
+#: ReduxFramework/ReduxCore/inc/welcome.php:338
+#: ReduxFramework/ReduxCore/inc/welcome.php:476
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:174
+msgid "Some Feature"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:178
+#: ReduxFramework/ReduxCore/inc/welcome.php:182
+#: ReduxFramework/ReduxCore/inc/welcome.php:195
+#: ReduxFramework/ReduxCore/inc/welcome.php:199
+#: ReduxFramework/ReduxCore/inc/welcome.php:203
+#: ReduxFramework/ReduxCore/inc/welcome.php:208
+#: ReduxFramework/ReduxCore/inc/welcome.php:221
+#: ReduxFramework/ReduxCore/inc/welcome.php:225
+#: ReduxFramework/ReduxCore/inc/welcome.php:230
+msgid "Feature"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:190
+msgid "Some feature"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:217
+msgid "More Features"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:223
+#: ReduxFramework/ReduxCore/inc/welcome.php:227
+#: ReduxFramework/ReduxCore/inc/welcome.php:232
+msgid "description"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:238
+msgid "Additional Updates"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:242
+#: ReduxFramework/ReduxCore/inc/welcome.php:246
+#: ReduxFramework/ReduxCore/inc/welcome.php:252
+#: ReduxFramework/ReduxCore/inc/welcome.php:256
+#: ReduxFramework/ReduxCore/inc/welcome.php:262
+#: ReduxFramework/ReduxCore/inc/welcome.php:266
+msgid "Cool thing"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:244
+#: ReduxFramework/ReduxCore/inc/welcome.php:248
+#: ReduxFramework/ReduxCore/inc/welcome.php:254
+#: ReduxFramework/ReduxCore/inc/welcome.php:258
+#: ReduxFramework/ReduxCore/inc/welcome.php:264
+#: ReduxFramework/ReduxCore/inc/welcome.php:268
+msgid "cool thing description."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:277
+#: ReduxFramework/ReduxCore/inc/welcome.php:316
+msgid "Go to Redux Framework"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:278
+msgid "View the Full Changelog"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:298
+#: ReduxFramework/ReduxCore/inc/welcome.php:336
+#: ReduxFramework/ReduxCore/inc/welcome.php:474
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"make your <description>"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:305
+msgid "Full Changelog"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:342
+msgid ""
+"Use the tips below to get started using Redux Framework. You'll be up and "
+"running in no time!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:345
+msgid "Creating Your First Panel"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:350
+#, php-format
+msgid "<a href=\"%s\">%s &rarr; Add New</a>"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:352
+#, php-format
+msgid ""
+"The %s menu is your access point for all aspects of your Easy Digital "
+"Downloads product creation and setup. To create your first product, simply "
+"click Add New and then fill out the product details."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:354
+msgid "Product Price"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:356
+msgid ""
+"Products can have simple prices or variable prices if you wish to have more "
+"than one price point for a product. For a single price, simply enter the "
+"price. For multiple price points, click <em>Enable variable pricing</em> and "
+"enter the options."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:358
+msgid "Download Files"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:360
+msgid ""
+"Uploading the downloadable files is simple. Click <em>Upload File</em> in "
+"the Download Files section and choose your download file. To add more than "
+"one file, simply click the <em>Add New</em> button."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:366
+msgid "Display a Product Grid"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:373
+msgid "Flexible Product Grids"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:375
+msgid ""
+"The [downloads] shortcode will display a product grid that works with any "
+"theme, no matter the size. It is even responsive!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:377
+msgid "Change the Number of Columns"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:379
+msgid ""
+"You can easily change the number of columns by adding the columns=\"x\" "
+"parameter:"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:385
+msgid "Additional Display Options"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:387
+#, php-format
+msgid ""
+"The product grids can be customized in any way you wish and there is <a href="
+"\"%s\">extensive documentation</a> to assist you."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:392
+msgid "Purchase Buttons Anywhere"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:397
+msgid "The <em>[purchase_link]</em> Shortcode"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:399
+msgid ""
+"With easily accessible shortcodes to display purchase buttons, you can add a "
+"Buy Now or Add to Cart button for any product anywhere on your site in "
+"seconds."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:401
+msgid "Buy Now Buttons"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:403
+msgid ""
+"Purchase buttons can behave as either Add to Cart or Buy Now buttons. With "
+"Buy Now buttons customers are taken straight to PayPal, giving them the most "
+"frictionless purchasing experience possible."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:409
+msgid "Need Help?"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:413
+msgid "Phenomenal Support"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:415
+msgid ""
+"We do our best to provide the best support we can. If you encounter a "
+"problem or have a question, post a question in the <a href=\"https://"
+"easydigitaldownloads.com/support\">support forums</a>."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:417
+msgid "Need Even Faster Support?"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:419
+msgid ""
+"Our <a href=\"https://easydigitaldownloads.com/support/pricing/\">Priority "
+"Support forums</a> are there for customers that need faster and/or more in-"
+"depth assistance."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:425
+msgid "Stay Up to Date"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:429
+msgid "Get Notified of Extension Releases"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:431
+msgid ""
+"New extensions that make Easy Digital Downloads even more powerful are "
+"released nearly every single week. Subscribe to the newsletter to stay up to "
+"date with our latest releases. <a href=\"http://eepurl.com/kaerz\" target="
+"\"_blank\">Signup now</a> to ensure you do not miss a release!"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:433
+msgid "Get Alerted About New Tutorials"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:435
+msgid ""
+"<a href=\"http://eepurl.com/kaerz\" target=\"_blank\">Signup now</a> to hear "
+"about the latest tutorial releases that explain how to take Easy Digital "
+"Downloads further."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:441
+msgid "Extensions for Everything"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:445
+msgid "Over 250 Extensions"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:447
+msgid ""
+"Add-on plugins are available that greatly extend the default functionality "
+"of Easy Digital Downloads. There are extensions for payment processors, such "
+"as Stripe and PayPal, extensions for newsletter integrations, and many, many "
+"more."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:449
+msgid "Visit the Extension Store"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:451
+msgid ""
+"<a href=\"https://asydigitaldownloads.com/extensions\" target=\"_blank\">The "
+"Extensions store</a> has a list of all available extensions, including "
+"convenient category filters so you can find exactly what you are looking for."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:480
+msgid ""
+"Redux Framework is created by a worldwide team of developers who <something "
+"witty here>"
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:500
+msgid "No valid changlog was found."
+msgstr ""
+
+#: ReduxFramework/ReduxCore/inc/welcome.php:539
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ReduxFramework/options/options.php:35
+msgid "General Settings"
+msgstr ""
+
+#: ReduxFramework/options/options.php:38
+msgid "Image to display beside the url bar"
+msgstr ""
+
+#: ReduxFramework/options/options.php:41
+msgid "Favicon"
+msgstr ""
+
+#: ReduxFramework/options/options.php:45
+msgid "Body Layout"
+msgstr ""
+
+#: ReduxFramework/options/options.php:46
+msgid "Choose which layout the body will have"
+msgstr ""
+
+#: ReduxFramework/options/options.php:59
+msgid "Boxed Background"
+msgstr ""
+
+#: ReduxFramework/options/options.php:60
+msgid "Sets the background image for boxed layouts"
+msgstr ""
+
+#: ReduxFramework/options/options.php:64
+msgid ""
+"Enable or disable the social share buttons at the end of each blog post."
+msgstr ""
+
+#: ReduxFramework/options/options.php:66
+msgid "Enabled"
+msgstr ""
+
+#: ReduxFramework/options/options.php:67
+msgid "Disabled"
+msgstr ""
+
+#: ReduxFramework/options/options.php:69
+msgid "Social Share Buttons"
+msgstr ""
+
+#: ReduxFramework/options/options.php:73
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer or header based on which you select afterwards."
+msgstr ""
+
+#: ReduxFramework/options/options.php:76
+msgid "Tracking Code"
+msgstr ""
+
+#: ReduxFramework/options/options.php:80
+msgid "Place code before &lt;/head&gt; or &lt;/body&gt;"
+msgstr ""
+
+#: ReduxFramework/options/options.php:82
+msgid "head"
+msgstr ""
+
+#: ReduxFramework/options/options.php:83
+msgid "body"
+msgstr ""
+
+#: ReduxFramework/options/options.php:90
+msgid "Header Settings"
+msgstr ""
+
+#: ReduxFramework/options/options.php:93
+msgid "Logo "
+msgstr ""
+
+#: ReduxFramework/options/options.php:94
+msgid "Main logo text"
+msgstr ""
+
+#: ReduxFramework/options/options.php:97
+msgid "Automotive"
+msgstr ""
+
+#: ReduxFramework/options/options.php:100
+msgid "Text displayed under the logo text"
+msgstr ""
+
+#: ReduxFramework/options/options.php:103
+msgid "Template"
+msgstr ""
+
+#: ReduxFramework/options/options.php:112
+msgid "Default Header Image"
+msgstr ""
+
+#: ReduxFramework/options/options.php:113
+msgid "This image will be shown if no header image is found."
+msgstr ""
+
+#: ReduxFramework/options/options.php:118
+msgid "Toolbar Text"
+msgstr ""
+
+#: ReduxFramework/options/options.php:120
+msgid "These labels are found on the top bar above the main menu."
+msgstr ""
+
+#: ReduxFramework/options/options.php:127
+msgid "Show login"
+msgstr ""
+
+#: ReduxFramework/options/options.php:135
+#: ReduxFramework/options/options.php:136 footer.php:21 header.php:37
+msgid "Login"
+msgstr ""
+
+#: ReduxFramework/options/options.php:142
+msgid "Login Link"
+msgstr ""
+
+#: ReduxFramework/options/options.php:149
+msgid "Show languages"
+msgstr ""
+
+#: ReduxFramework/options/options.php:157
+#: ReduxFramework/options/options.php:158 header.php:47
+msgid "Languages"
+msgstr ""
+
+#: ReduxFramework/options/options.php:164
+msgid "Show search"
+msgstr ""
+
+#: ReduxFramework/options/options.php:172
+#: ReduxFramework/options/options.php:173
+#: ReduxFramework/options/options.php:540 functions.php:897 header.php:56
+msgid "Search"
+msgstr ""
+
+#: ReduxFramework/options/options.php:179
+msgid "Show phone"
+msgstr ""
+
+#: ReduxFramework/options/options.php:187
+#: ReduxFramework/options/options.php:188
+msgid "Phone"
+msgstr ""
+
+#: ReduxFramework/options/options.php:194
+msgid "Show address"
+msgstr ""
+
+#: ReduxFramework/options/options.php:202
+#: ReduxFramework/options/options.php:203
+msgid "Address"
+msgstr ""
+
+#: ReduxFramework/options/options.php:209
+msgid "Address Link"
+msgstr ""
+
+#: ReduxFramework/options/options.php:221
+msgid "Show or hide the top header area."
+msgstr ""
+
+#: ReduxFramework/options/options.php:224
+msgid "Top header display"
+msgstr ""
+
+#: ReduxFramework/options/options.php:230
+msgid ""
+"If on the header will resize after scrolling, or else it will stay the same "
+"size."
+msgstr ""
+
+#: ReduxFramework/options/options.php:233
+msgid "Header Resize"
+msgstr ""
+
+#: ReduxFramework/options/options.php:237
+msgid "If this is enabled it will display a cart icon beside the Login label"
+msgstr ""
+
+#: ReduxFramework/options/options.php:240
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: ReduxFramework/options/options.php:240
+#, php-format
+msgid "(WooCommerce is <span style='%s'>%s</span>)"
+msgstr ""
+
+#: ReduxFramework/options/options.php:244
+msgid ""
+"Display a dropdown of available languages in the header. Only works with WPML"
+msgstr ""
+
+#: ReduxFramework/options/options.php:247
+#, php-format
+msgid "Languages (WPML is <span style='%s'>%s</span>)"
+msgstr ""
+
+#: ReduxFramework/options/options.php:254
+msgid "Footer Settings"
+msgstr ""
+
+#: ReduxFramework/options/options.php:257
+msgid "You can create different footer widget areas for different pages."
+msgstr ""
+
+#: ReduxFramework/options/options.php:260
+msgid "Add another footer"
+msgstr ""
+
+#: ReduxFramework/options/options.php:261
+msgid "Multiple Footer areas"
+msgstr ""
+
+#: ReduxFramework/options/options.php:264
+msgid "You can use the following shortcodes in your footer text"
+msgstr ""
+
+#: ReduxFramework/options/options.php:267
+msgid "Footer Text"
+msgstr ""
+
+#: ReduxFramework/options/options.php:286
+msgid "Social Settings"
+msgstr ""
+
+#: ReduxFramework/options/options.php:291
+msgid "Footer Social Icons"
+msgstr ""
+
+#: ReduxFramework/options/options.php:292
+msgid "Choose which social networks are displayed and edit where they link to."
+msgstr ""
+
+#: ReduxFramework/options/options.php:303
+msgid "Contact Settings"
+msgstr ""
+
+#: ReduxFramework/options/options.php:306
+msgid "This email will be used to forward the contact form mail to it."
+msgstr ""
+
+#: ReduxFramework/options/options.php:309
+msgid "Contact Email"
+msgstr ""
+
+#: ReduxFramework/options/options.php:368
+msgid "Custom Styling"
+msgstr ""
+
+#: ReduxFramework/options/options.php:371
+msgid "Pick a primary color for the theme (default: #c7081b)."
+msgstr ""
+
+#: ReduxFramework/options/options.php:374
+msgid "Primary Color"
+msgstr ""
+
+#: ReduxFramework/options/options.php:380
+msgid "Link Color"
+msgstr ""
+
+#: ReduxFramework/options/options.php:391
+msgid "Footer Link Color"
+msgstr ""
+
+#: ReduxFramework/options/options.php:402
+msgid "Set the body font using googles web font service."
+msgstr ""
+
+#: ReduxFramework/options/options.php:403
+msgid "Body Font"
+msgstr ""
+
+#: ReduxFramework/options/options.php:419
+msgid "Set the top logo font using googles web font service."
+msgstr ""
+
+#: ReduxFramework/options/options.php:420
+msgid "Top Logo Font"
+msgstr ""
+
+#: ReduxFramework/options/options.php:433
+msgid "Set the bottom logo font using googles web font service."
+msgstr ""
+
+#: ReduxFramework/options/options.php:434
+msgid "Bottom Logo Font"
+msgstr ""
+
+#: ReduxFramework/options/options.php:445
+msgid "Quickly add some custom CSS to your theme."
+msgstr ""
+
+#: ReduxFramework/options/options.php:448
+msgid "Custom CSS"
+msgstr ""
+
+#: ReduxFramework/options/options.php:453
+msgid "Quickly add some custom JS to your theme."
+msgstr ""
+
+#: ReduxFramework/options/options.php:456
+msgid "Custom JS"
+msgstr ""
+
+#: ReduxFramework/options/options.php:464
+msgid "Page Settings"
+msgstr ""
+
+#: ReduxFramework/options/options.php:467
+msgid "Blog Post"
+msgstr ""
+
+#: ReduxFramework/options/options.php:475
+msgid ""
+"This title shows up in the header section on all blog postings and the blog "
+"page."
+msgstr ""
+
+#: ReduxFramework/options/options.php:476
+msgid "Blog Listing Titles"
+msgstr ""
+
+#: ReduxFramework/options/options.php:481
+msgid ""
+"This secondary title displays under the previous title in the header on blog "
+"pages."
+msgstr ""
+
+#: ReduxFramework/options/options.php:490
+msgid "404 Page"
+msgstr ""
+
+#: ReduxFramework/options/options.php:498
+#: ReduxFramework/options/options.php:533
+#: ReduxFramework/options/options.php:572
+#: ReduxFramework/options/options.php:611 meta_boxes.php:38
+msgid "Header Image"
+msgstr ""
+
+#: ReduxFramework/options/options.php:503
+#: ReduxFramework/options/options.php:538
+#: ReduxFramework/options/options.php:577
+#: ReduxFramework/options/options.php:616
+msgid "Main Title"
+msgstr ""
+
+#: ReduxFramework/options/options.php:504 functions.php:796
+msgid "Error 404: File not found."
+msgstr ""
+
+#: ReduxFramework/options/options.php:509
+#: ReduxFramework/options/options.php:545
+#: ReduxFramework/options/options.php:584
+#: ReduxFramework/options/options.php:623 meta_boxes.php:10
+msgid "Secondary Title"
+msgstr ""
+
+#: ReduxFramework/options/options.php:510
+msgid "That being said, we will give you an amazing deal for the trouble."
+msgstr ""
+
+#: ReduxFramework/options/options.php:515
+#: ReduxFramework/options/options.php:552
+#: ReduxFramework/options/options.php:591
+#: ReduxFramework/options/options.php:630
+msgid "Breadcrumb"
+msgstr ""
+
+#: ReduxFramework/options/options.php:525
+msgid "Search Page"
+msgstr ""
+
+#: ReduxFramework/options/options.php:539
+#: ReduxFramework/options/options.php:546
+#: ReduxFramework/options/options.php:553
+msgid "You are able to use {query} in place the of search term"
+msgstr ""
+
+#: ReduxFramework/options/options.php:564
+msgid "Category Page"
+msgstr ""
+
+#: ReduxFramework/options/options.php:578
+#: ReduxFramework/options/options.php:585
+#: ReduxFramework/options/options.php:592
+msgid "You are able to use {query} in place the of category term"
+msgstr ""
+
+#: ReduxFramework/options/options.php:603
+msgid "Tag Page"
+msgstr ""
+
+#: ReduxFramework/options/options.php:617
+#: ReduxFramework/options/options.php:624
+msgid "You are able to use {query} in place the of tag term"
+msgstr ""
+
+#: ReduxFramework/options/options.php:643
+msgid "Update Settings"
+msgstr ""
+
+#: ReduxFramework/options/options.php:648
+msgid ""
+"Enter in your themeforest username in order to download theme updates "
+"directly on your website."
+msgstr ""
+
+#: ReduxFramework/options/options.php:649
+msgid "ThemeForest Automatic Updates"
+msgstr ""
+
+#: ReduxFramework/options/options.php:654
+msgid "Themeforest API key"
+msgstr ""
+
+#: ReduxFramework/options/options.php:665
+msgid "Import Export"
+msgstr ""
+
+#: ReduxFramework/options/options.php:666
+msgid "Save and restore your Redux options"
+msgstr ""
+
+#: ReduxFramework/options/options.php:678
+msgid "Disable embedded CSS"
+msgstr ""
+
+#: ReduxFramework/options/options.php:679
+msgid "This is only visible if your server can write files"
+msgstr ""
+
+#: ReduxFramework/options/options.php:696
+msgid "Theme Options"
+msgstr ""
+
+#: ajax-functions.php:31
+msgid "Message from contact form"
+msgstr ""
+
+#: ajax-functions.php:45
+msgid "Name is too short or empty."
+msgstr ""
+
+#: ajax-functions.php:50
+msgid "Please enter a valid email."
+msgstr ""
+
+#: ajax-functions.php:55
+msgid "Too short message! Please enter something."
+msgstr ""
+
+#: ajax-functions.php:68
+msgid "Could not send mail."
+msgstr ""
+
+#: ajax-functions.php:72
+msgid "Hi "
+msgstr ""
+
+#: ajax-functions.php:73
+msgid "Your email has been delivered."
+msgstr ""
+
+#: author.php:9
+msgid "Author Archives for "
+msgstr ""
+
+#: author.php:15
+msgid "About "
+msgstr ""
+
+#: author.php:42
+msgid "Published by"
+msgstr ""
+
+#: author.php:43 single.php:49
+msgid "Leave your thoughts"
+msgstr ""
+
+#: author.php:43 functions.php:496 single.php:49
+msgid "1 Comment"
+msgstr ""
+
+#: author.php:43 functions.php:496 single.php:49
+msgid "% Comments"
+msgstr ""
+
+#: author.php:62 loop.php:14 page.php:39 single.php:123
+msgid "Sorry, nothing to display."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:161 included_plugins.php:69
+msgid "Install Required Plugins"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:162 included_plugins.php:70
+msgid "Install Plugins"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:163 included_plugins.php:71
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:165 included_plugins.php:73
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:166 included_plugins.php:74
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:167 included_plugins.php:75
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:168 included_plugins.php:76
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:169 included_plugins.php:77
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:170 included_plugins.php:78
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:171 included_plugins.php:79
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:172 included_plugins.php:80
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:173 included_plugins.php:81
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:174 included_plugins.php:82
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:175 included_plugins.php:83
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:177
+#: classes/class-tgm-plugin-activation.php:1945 included_plugins.php:84
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:178
+#: classes/class-tgm-plugin-activation.php:1636
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: classes/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:534
+#: classes/class-tgm-plugin-activation.php:2162
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1169
+msgid "Private Repository"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1172
+msgid "Pre-Packaged"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1177
+msgid "WordPress Repository"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1180
+msgid "Required"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1180
+msgid "Recommended"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1183
+msgid "Not Installed"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1185
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1290
+#: classes/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1312
+#: classes/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1928
+msgid "Install package not available."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1929
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1930
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1931
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1932
+msgid "Plugin install failed."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1933
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:1944
+msgid "Plugin activation failed."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2058
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2059
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2059
+#: classes/class-tgm-plugin-activation.php:2068
+msgid "Show Details"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2059
+#: classes/class-tgm-plugin-activation.php:2068
+msgid "Hide Details"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2060
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2065
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2066
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2068
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2069
+msgid "All installations have been completed."
+msgstr ""
+
+#: classes/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: classes/themes-updater/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: classes/themes-updater/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: classes/themes-updater/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: classes/themes-updater/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: comments.php:3
+msgid "Post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:27
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: comments.php:28
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: comments.php:44
+msgid "Comments are closed here."
+msgstr ""
+
+#: footer.php:12
+msgid "Login to access different features"
+msgstr ""
+
+#: footer.php:19
+msgid "Remember Me"
+msgstr ""
+
+#: footer.php:105
+msgid "Back to top"
+msgstr ""
+
+#: functions.php:444
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:444
+msgid "Checkout"
+msgstr ""
+
+#: functions.php:448
+msgid "Please enable WooCommerce"
+msgstr ""
+
+#: functions.php:487 single.php:40
+msgid "Not categorized"
+msgstr ""
+
+#: functions.php:491 single.php:44
+msgid "More Categories"
+msgstr ""
+
+#: functions.php:495 single.php:48
+msgid "Posted by"
+msgstr ""
+
+#: functions.php:496
+msgid "No comments yet"
+msgstr ""
+
+#: functions.php:511
+msgid "Read More"
+msgstr ""
+
+#: functions.php:521 functions.php:523 single.php:74 single.php:76
+msgid "Tag"
+msgstr ""
+
+#: functions.php:532 single.php:85
+msgid "More Tags"
+msgstr ""
+
+#: functions.php:554
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:555
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:602 meta_boxes.php:64
+msgid "Default Footer"
+msgstr ""
+
+#: functions.php:612
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:714
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:714
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:739
+msgid "Leave comments"
+msgstr ""
+
+#: functions.php:740
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: functions.php:741
+msgid "Cancel Reply"
+msgstr ""
+
+#: functions.php:742
+msgid "Submit Comment"
+msgstr ""
+
+#: functions.php:744
+msgid "Your comments"
+msgstr ""
+
+#: functions.php:748
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: functions.php:754
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: functions.php:761
+msgid "Your email address will not be published."
+msgstr ""
+
+#: functions.php:766
+#, php-format
+msgid ""
+"<br><br>You may use these <abbr title=\"HyperText Markup Language\">HTML</"
+"abbr> tags and attributes: %s"
+msgstr ""
+
+#: functions.php:773
+msgid "Name (Required)"
+msgstr ""
+
+#: functions.php:776
+msgid "Email (Required)"
+msgstr ""
+
+#: functions.php:779
+msgid "Website"
+msgstr ""
+
+#: functions.php:795
+msgid "That being said, we will give you an amazing deal for the trouble"
+msgstr ""
+
+#: functions.php:841
+msgid "Category Archive"
+msgstr ""
+
+#: functions.php:844
+msgid "Tag Archive"
+msgstr ""
+
+#: functions.php:847
+msgid "Search term"
+msgstr ""
+
+#: functions.php:857
+msgid "Latest Industry News"
+msgstr ""
+
+#: functions.php:858
+msgid "Blog"
+msgstr ""
+
+#: functions.php:887 header.php:121
+msgid "Home"
+msgstr ""
+
+#: functions.php:917
+msgid "Category Archives"
+msgstr ""
+
+#: functions.php:921
+msgid "Tag Archives"
+msgstr ""
+
+#: functions.php:929
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: functions.php:937
+msgid "Daily Archives"
+msgstr ""
+
+#: functions.php:941
+msgid "Monthly Archives"
+msgstr ""
+
+#: functions.php:945
+msgid "Yearly Archives"
+msgstr ""
+
+#: functions.php:956
+msgid "Archives"
+msgstr ""
+
+#: functions.php:1158 functions.php:1297
+msgid "Add a menu"
+msgstr ""
+
+#: functions.php:1421
+msgid "[Automotive] Contact Page"
+msgstr ""
+
+#: functions.php:1441
+msgid "[Automotive] About Us Page"
+msgstr ""
+
+#: functions.php:1467
+msgid "[Automotive] FAQ Page"
+msgstr ""
+
+#: functions.php:1630
+msgid "[Automotive] Our Team Page"
+msgstr ""
+
+#: functions.php:1646
+msgid "[Automotive] Pricing Tables Page"
+msgstr ""
+
+#: functions.php:1669
+msgid "[Automotive] Service Page"
+msgstr ""
+
+#: functions.php:1700
+msgid "[Automotive] Homepage"
+msgstr ""
+
+#: header.php:41
+msgid "Cart"
+msgstr ""
+
+#: included_plugins.php:72
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: included_plugins.php:85
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: meta_boxes.php:11
+msgid "Page Options"
+msgstr ""
+
+#: meta_boxes.php:28
+msgid "Sidebar"
+msgstr ""
+
+#: meta_boxes.php:40
+msgid "Select a header image"
+msgstr ""
+
+#: meta_boxes.php:40
+msgid "Select Image"
+msgstr ""
+
+#: meta_boxes.php:56
+msgid "No header area"
+msgstr ""
+
+#: meta_boxes.php:60
+msgid "Footer Area"
+msgstr ""
+
+#: meta_boxes.php:65
+msgid "No Footer"
+msgstr ""
+
+#: meta_boxes.php:75
+msgid "Call to action"
+msgstr ""
+
+#: meta_boxes.php:79
+msgid "Text"
+msgstr ""
+
+#: meta_boxes.php:80
+msgid "Button Text"
+msgstr ""
+
+#: meta_boxes.php:81
+msgid "Button Link"
+msgstr ""
+
+#: meta_boxes.php:88
+msgid "Slideshow"
+msgstr ""
+
+#: page.php:18 single.php:94
+msgid "Pages:"
+msgstr ""
+
+#: single.php:57
+msgid "Share link on Facebook"
+msgstr ""
+
+#: single.php:58
+msgid "Share link on Google+"
+msgstr ""
+
+#: single.php:59
+msgid "Share image on Pinterest"
+msgstr ""
+
+#: single.php:60
+msgid "Share link on Twitter"
+msgstr ""
+
+#: update-notifier.php:46
+msgid "Automotive Theme Updates"
+msgstr ""
+
+#: update-notifier.php:52
+msgid "Update Download and Instructions"
+msgstr ""
+
+#: update-notifier.php:69
+msgid "Update Automotive"
+msgstr ""
